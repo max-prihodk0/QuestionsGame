@@ -5,9 +5,9 @@ public class Main {
 
 	public static LinkedList<Animal> list = new LinkedList<Animal>();
 
-  public static void main(String[] args) {
+	public static void main(String[] args) {
 		startProc();
-  }
+	}
 
 	public static void startProc()
 	{
